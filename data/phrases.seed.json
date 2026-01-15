@@ -1,0 +1,101 @@
+[
+  {
+    "id": "essentials_001",
+    "english": "Where is the bathroom?",
+    "spanish": "¿Dónde está el baño?",
+    "pronunciation": "DOHN-deh es-TAH el BAN-yoh",
+    "category": "essentials",
+    "alts": [
+      "Where's the restroom?",
+      "Where is the restroom?",
+      "Bathroom?",
+      "Restroom?",
+      "Can you tell me where the bathroom is?"
+    ]
+  },
+  {
+    "id": "essentials_002",
+    "english": "Do you speak English?",
+    "spanish": "¿Habla inglés?",
+    "pronunciation": "AH-blah een-GLAYS",
+    "category": "essentials",
+    "alts": [
+      "Do you speak english",
+      "Can you speak English?",
+      "Do you understand English?"
+    ]
+  },
+  {
+    "id": "directions_001",
+    "english": "How do I get to the airport?",
+    "spanish": "¿Cómo llego al aeropuerto?",
+    "pronunciation": "KOH-moh YEH-goh al ah-eh-ROH-pwehr-toh",
+    "category": "directions",
+    "alts": [
+      "Directions to the airport",
+      "How can I get to the airport?",
+      "Where is the airport?"
+    ]
+  },
+  {
+    "id": "dining_001",
+    "english": "I have an allergy to peanuts.",
+    "spanish": "Soy alérgico/a a los cacahuetes.",
+    "pronunciation": "soy ah-LAIR-hee-koh/ah ah los kah-kah-WEH-tes",
+    "category": "dining",
+    "alts": [
+      "I'm allergic to peanuts",
+      "I am allergic to peanuts",
+      "Peanut allergy"
+    ]
+  },
+  {
+    "id": "emergency_001",
+    "english": "I need help.",
+    "spanish": "Necesito ayuda.",
+    "pronunciation": "neh-seh-SEE-toh ah-YOO-dah",
+    "category": "emergency",
+    "alts": [
+      "Help me",
+      "Please help",
+      "I need assistance",
+      "I need help now"
+    ]
+  },
+  {
+    "id": "emergency_002",
+    "english": "Call the police.",
+    "spanish": "Llame a la policía.",
+    "pronunciation": "YAH-meh ah lah poh-lee-SEE-ah",
+    "category": "emergency",
+    "alts": [
+      "Call police",
+      "Please call the police",
+      "I need the police"
+    ]
+  },
+  {
+    "id": "health_001",
+    "english": "Where is the hospital?",
+    "spanish": "¿Dónde está el hospital?",
+    "pronunciation": "DOHN-deh es-TAH el os-pee-TAL",
+    "category": "health",
+    "alts": [
+      "Hospital?",
+      "Where's the hospital?",
+      "How do I get to the hospital?"
+    ]
+  },
+  {
+    "id": "transportation_001",
+    "english": "How much is a taxi to downtown?",
+    "spanish": "¿Cuánto cuesta un taxi al centro?",
+    "pronunciation": "KWAN-toh KWEHS-tah oon TAK-see al SEN-troh",
+    "category": "transportation",
+    "alts": [
+      "Taxi to downtown price",
+      "How much for a taxi to the center?",
+      "How much does a taxi cost to downtown?"
+    ]
+  }
+]

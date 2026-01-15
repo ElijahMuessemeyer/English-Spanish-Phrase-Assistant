@@ -1,0 +1,34 @@
+[
+  {
+    "query": "wheres the restroom",
+    "expected_id": "essentials_001"
+  },
+  {
+    "query": "bathroom?",
+    "expected_id": "essentials_001"
+  },
+  {
+    "query": "do you speak english",
+    "expected_id": "essentials_002"
+  },
+  {
+    "query": "how can i get to the airport",
+    "expected_id": "directions_001"
+  },
+  {
+    "query": "im allergic to peanuts",
+    "expected_id": "dining_001"
+  },
+  {
+    "query": "help me please",
+    "expected_id": "emergency_001"
+  },
+  {
+    "query": "please call police",
+    "expected_id": "emergency_002"
+  },
+  {
+    "query": "where is the hospital",
+    "expected_id": "health_001"
+  }
+]
