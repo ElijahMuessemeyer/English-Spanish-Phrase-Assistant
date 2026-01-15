@@ -1,5 +1,9 @@
 # English to Spanish Travel Phrase Assistant
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![spaCy](https://img.shields.io/badge/spaCy-3.5+-09a3d5.svg)](https://spacy.io/)
+
 A retrieval-based, closed-domain CLI chatbot that helps English-speaking travelers find the best Spanish phrase for common travel situations.
 
 ## Overview
